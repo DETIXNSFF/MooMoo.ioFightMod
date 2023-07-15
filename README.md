@@ -8,6 +8,9 @@ The MooMoo.io Fight Mod & Disable Right Click script enhances your gameplay in M
 - Removes unnecessary visual elements for a cleaner interface
 - Boosts FPS to ensure smoother gameplay
 - Disables right-click to prevent accidental actions
+  
+![image](https://github.com/DETIXNSFF/MooMoo.ioFightMod/assets/139617287/bd2c3cd0-b3a5-4617-a9c3-894a729a6b45)
+![image](https://github.com/DETIXNSFF/MooMoo.ioFightMod/assets/139617287/09deb361-051f-4175-a021-3aa8ed0c1c3e)
 
 ## Installation
 1. Install Tampermonkey or any other userscript manager extension in your browser.
