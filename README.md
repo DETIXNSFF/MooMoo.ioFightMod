@@ -10,10 +10,14 @@ The MooMoo.io Fight Mod & Disable Right Click script enhances your gameplay in M
 - Disables right-click to prevent accidental actions
 
 ## Installation
-1. Install a userscript manager extension in your browser, such as Tampermonkey.
-2. Copy & Paste the script in userscript manager
-3. Click on the "Install" button to install the script.
-4. Refresh or open a new MooMoo.io tab to activate the script.
+1. Install Tampermonkey or any other userscript manager extension in your browser.
+2. Copy the script you want to install.
+3. Open your userscript manager extension (e.g., Tampermonkey) dashboard.
+4. Click on "Create a new script" or the equivalent option.
+5. Paste the copied script into the editor.
+6. Click on the "Install" or "Save" or "Ctrl + S" button to install the script.
+7. Go to the MooMoo.io website and refresh the page or open a new MooMoo.io tab.
+8. The script should now be activated and ready to use.
 
 ## Usage
 - After installing the script, a toggle button will appear in the top-left corner of the MooMoo.io game screen.
